@@ -31,14 +31,18 @@ Ensure you have a C++ compiler (like `g++` via MinGW on Windows or GCC on Linux)
    git clone [https://github.com/SaadAwan701/Movie-Data-Manager.git](https://github.com/SaadAwan701/Movie-Data-Manager.git)
 
 2. Navigate to the directory:
+   
    cd Movie-Data-Manager
 
-3. Compile the source code:
+4. Compile the source code:
+   
    g++ main.cpp -o movie_manager
 
-4. Run the executable:
+6. Run the executable:
+   
    # On Windows
   movie_manager.exe
+  
   # On Linux/macOS
   ./movie_manager
   
