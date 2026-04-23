@@ -41,8 +41,8 @@ Ensure you have a C++ compiler (like `g++` via MinGW on Windows or GCC on Linux)
 6. Run the executable:
    
    # On Windows
-  movie_manager.exe
+   movie_manager.exe
   
-  # On Linux/macOS
-  ./movie_manager
+   # On Linux/macOS
+   ./movie_manager
   
